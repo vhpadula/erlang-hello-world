@@ -1,5 +1,5 @@
 # Hello-Erlang!
-This repo follows the "Getting Started" tutorial on the official [Erlang Documentation](https://www.erlang.org/doc/reference_manual/users_guide](https://www.erlang.org/doc/))
+This repo follows the "Getting Started" tutorial on the official [Erlang Documentation](https://www.erlang.org/doc/)
 
 Also, here is a nice video for getting to know the Erlang Language: https://www.youtube.com/watch?v=SOqQVoVai6s
 The video explains the history of the language, and its applications on functional, distributed and parallel programming.
